@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "RETR",
+        "dtype",
         "imread",
-        "imshow"
+        "imshow",
+        "noqa",
+        "numpy"
     ],
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,

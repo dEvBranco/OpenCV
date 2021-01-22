@@ -1,12 +1,14 @@
 {
     "cSpell.words": [
         "RETR",
+        "Sobel",
         "dtype",
         "imread",
         "imshow",
         "noqa",
         "numpy",
         "pyplot",
+        "sobelx",
         "xlabel",
         "xlim",
         "ylabel"

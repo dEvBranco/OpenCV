@@ -16,3 +16,17 @@ Chapter 1 - Basics
 - Contour Detection
 
 ...
+
+Chapter_2 - Advanced
+
+- Color Spaces
+- Color Channels
+- Blurring
+- BITWISE operations
+- Masking
+- Histogram Computation
+- Thresholding/Binarizing Images
+- Edge Detection
+
+...
+

@@ -5,7 +5,11 @@
         "imread",
         "imshow",
         "noqa",
-        "numpy"
+        "numpy",
+        "pyplot",
+        "xlabel",
+        "xlim",
+        "ylabel"
     ],
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,

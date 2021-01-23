@@ -30,3 +30,9 @@ Chapter_2 - Advanced
 
 ...
 
+Chapter_3 - Faces
+
+- Face Detection with Haar Cascades
+- Face Recognition with OpenCV's built-in recognizer
+
+...
